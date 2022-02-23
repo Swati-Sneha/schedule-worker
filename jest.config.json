@@ -1,0 +1,5 @@
+{
+    "testRegex": "./__tests__/schedule.test.js",
+    "preset": "@shelf/jest-mongodb",
+    "testTimeout": 30000
+}
