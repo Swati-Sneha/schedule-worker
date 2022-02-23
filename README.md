@@ -187,6 +187,6 @@ USER_PASSWORD: <password>
 
    [mongodb]: <https://www.mongodb.com/r>
    [node.js]: <http://nodejs.org>
-   [Express]: <http://angularjs.org>
+   [Express]: <https://expressjs.com>
    [jest]: <https://jestjs.io/>
 
